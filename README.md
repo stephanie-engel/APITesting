@@ -33,10 +33,10 @@
 8. After the new project is created, make sure to update build.gradle to include the plugins, dependencies, and task wrapper listed in the build.gradle file that is associated with this repository.
 
 - When making edits to the build.gradle file, make sure to:
-  - [1] Save the file and 
-  - [2] Right-click on the Project folder > click Gradle > Refresh Project (or else Gradle won't recognize changes to the build.gradle file)
+  - Save the file and 
+  - Right-click on the Project folder > click Gradle > Refresh Project (or else Gradle won't recognize changes to the build.gradle file)
 
 9. After the test is created, it can be run an either:
 
-  - [1] a TestNg test or
-  - [2] a Gradle test
+  - a TestNg test or
+  - a Gradle test
